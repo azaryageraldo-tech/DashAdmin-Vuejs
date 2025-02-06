@@ -4,7 +4,7 @@ import {
   XAxis, YAxis, CartesianGrid, Tooltip, Legend,
   ResponsiveContainer 
 } from 'recharts';
-
+``
 const lineChartData = [
   { name: 'Jan', value: 400 },
   { name: 'Feb', value: 300 },
